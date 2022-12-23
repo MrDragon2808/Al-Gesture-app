@@ -1,0 +1,35 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px crimson;
+    background-color: black;
+    color: red;
+}
+.note
+{
+    color: gold;
+    font-size: 20px;
+}
+#naruto
+{
+    position: fixed;
+    color: lime;
+    background-color: rgb(60, 0, 255);
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+canvas
+{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px crimson;
+}
+video
+{
+    box-shadow: 5px 5px 5px crimson;
+    border-radius: 20px;
+}
